@@ -1,7 +1,5 @@
-### Hi there 👋
+Hola 👋
 
-<!--
-**BarreraGerardo/BarreraGerardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Soy Gerardo Barrera Guzmán tengo 20 años estoy estudianto en el tecnologico de Mérida
 Ing. en Sistemas Computacionales me gusta escuchar musica tipo raps, rock y pop también 
